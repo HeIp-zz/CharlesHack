@@ -4,13 +4,13 @@ dir=charleshack
 
 mkdir $dir
 cd $dir
-cat >> psPJ.java <<EOF
+cat >> gIbD.java <<EOF
 package com.xk72.charles;
-public final class psPJ {
-public static boolean qIvM() { return true; }
-public static String tCiz() { return "https://0x0d.im"; }
-public static String qIvM(String name, String key) { return null; }
+public final class gIbD {
+public static boolean xUFT() { return true; }
+public static String PcqR() { return "Administrator"; }
+public static String xUFT(String name, String key) { return null; }
 }
 EOF
-javac -encoding UTF-8 psPJ.java -d .&& jar -uvf $charles com/xk72/charles/psPJ.class
+javac -encoding UTF-8 gIbD.java -d .&& jar -uvf $charles com/xk72/charles/gIbD.class
 cd .. && rm -rf $dir 
