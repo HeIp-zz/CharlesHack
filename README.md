@@ -11,5 +11,5 @@ https://github.com/100apps/charles-hacking
 
 Will Update the crack for every version.
 
-If failed to do so pelase report an issue &
+If failed to do so please report an issue &
 I will update since I use it regularly.
