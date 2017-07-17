@@ -2,9 +2,13 @@
 Hacking Charles Web Debugging Proxy
 Notes for myself:
 
-http://prntscr.com/fwjrgl/direct
+http://blog.csdn.net/endlu/article/details/52175787
 
-http://prntscr.com/fwjrpd/direct
+https://0x0d.im/archives/crack-charles-proxy-4-1-3.html
+
+http://www.jianshu.com/p/0ca39869e3c3
+
+http://endlulu.coding.me/2016/08/09/Charles4-0最新版破解/
 
 <b>Charles Web Proxy Crack Made possible by:</b>
 https://github.com/100apps/charles-hacking
