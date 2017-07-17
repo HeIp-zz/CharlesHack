@@ -2,9 +2,9 @@
 Hacking Charles Web Debugging Proxy
 Notes for myself:
 
-http://prntscr.com/fsfuhn/direct
+http://prntscr.com/fwjrgl/direct
 
-http://prntscr.com/fsfwrl/direct
+http://prntscr.com/fwjrpd/direct
 
 <b>Charles Web Proxy Crack Made possible by:</b>
 https://github.com/100apps/charles-hacking
