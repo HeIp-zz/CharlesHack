@@ -16,7 +16,11 @@ I will update since I use it regularly.
 
 <h1>How to crack Charles 4.1.4</h1>
 <b> for Mac</b>:
+
 Download hack.sh
+
 open terminal in the same directory
+
 make sure you have Charles.app in Applications
+
 run the hack.sh using <b>sh hack.sh</b>
