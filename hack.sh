@@ -1,16 +1,15 @@
-#!/usr/bin/env bash
 charles=/Applications/Charles.app/Contents/Java/charles.jar
 dir=charleshack
 
 mkdir $dir
 cd $dir
-cat >> gIbD.java <<EOF
+cat >> oFTR.java <<EOF
 package com.xk72.charles;
-public final class gIbD {
-public static boolean xUFT() { return true; }
-public static String PcqR() { return "Administrator"; }
-public static String xUFT(String name, String key) { return null; }
+public final class oFTR {
+	public static boolean Yuaz() { return true; }
+	public static String lktV() { return "Administrator"; }
+	public static String Yuaz(String name, String key) { return null; }
 }
 EOF
-javac -encoding UTF-8 gIbD.java -d .&& jar -uvf $charles com/xk72/charles/gIbD.class
-cd .. && rm -rf $dir 
+javac -encoding UTF-8 oFTR.java -d .&& jar -uvf $charles com/xk72/charles/oFTR.class
+cd .. && rm -rf $dir
