@@ -6853,6 +6853,7 @@ paper_crumbs[90780] = {name:"Mac DeMarco Shirt"};
 paper_crumbs[90781] = {name:"Staff Suit"};
 paper_crumbs[90782] = {name:"#BanKimJongB00m Shirt"};
 paper_crumbs[90783] = {name:"Pink Paintbrush"};
+paper_crumbs[133769] = {name:"Helps Hoodie"};
 furniture_crumbs[1] = {name:"Pink Chair"};
 furniture_crumbs[2] = {name:"Pink Beanbag Chair"};
 furniture_crumbs[3] = {name:"Pink Table"};
