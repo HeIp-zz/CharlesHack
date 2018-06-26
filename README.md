@@ -24,6 +24,7 @@ I will update since I use it regularly.
 Copy over to charles jar directory
 
 macOS: /Applications/Charles.app/Contents/Java/charles.jar
+
 Windows: C:\Program Files\Charles\lib\charles.jar
 
 <h1>How to crack Charles 4.1.4</h1>
