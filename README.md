@@ -28,6 +28,7 @@ macOS: /Applications/Charles.app/Contents/Java/charles.jar
 Windows: C:\Program Files\Charles\lib\charles.jar
 
 <h1>Hackscript code: </h1>
+
 ```
 export JAVA_HOME=`/usr/libexec/java_home -v 1.8`
 charles=/Applications/Charles.app/Contents/Java/charles.jar
