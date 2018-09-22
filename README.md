@@ -20,7 +20,7 @@ Will Update the crack for every version.
 If failed to do so please report an issue &
 I will update since I use it regularly.
 
-<h1>How to crack Charles 4.2.6</h1>
+<h1>How to crack Charles 4.2.7</h1>
 Copy over to charles jar directory
 
 macOS: /Applications/Charles.app/Contents/Java/charles.jar
@@ -36,17 +36,17 @@ dir=charleshack
 
 mkdir $dir
 cd $dir
-cat >> GPSz.java <<EOF
+cat >> kKPk.java <<EOF
 package com.xk72.charles;
-public final class GPSz {
-public static boolean Dgmx() { return true; }
-	public static boolean HFjb() { return true; }
-	public static String AKCM() { return "Administrator"; }
-	public static String Wmmw() { return "Administrator"; }
-	public static String Dgmx(String name, String key) { return null; }
+public final class kKPk {
+public static boolean lcJx() { return true; }
+	public static boolean yNVB() { return true; }
+	public static String dGDk() { return "Administrator"; }
+	public static String JZlU() { return "Administrator"; }
+	public static String lcJx(String name, String key) { return null; }
 }
 EOF
-javac -encoding UTF-8 GPSz.java -d .&& jar -uvf $charles com/xk72/charles/GPSz.class
+javac -encoding UTF-8 kKPk.java -d .&& jar -uvf $charles com/xk72/charles/kKPk.class
 cd .. && rm -rf $dir
 ```
 
